@@ -1,0 +1,9 @@
+{
+  "rss_feeds": [
+    "https://www.medicalxpress.com/rss-feed/",
+    "https://www.statnews.com/feed/",
+    "https://www.medscape.com/rssfeeds",
+    "https://www.who.int/rss-feeds/news-english.xml"
+  ]
+}
+
